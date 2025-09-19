@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timothy Benjamin</h1>
-<h3 align="center">A dedicated frontend developer | full-stack developer from India</h3>
+<h3 align="center">Co-Founder of IAMshield</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
