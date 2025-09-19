@@ -3,17 +3,17 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m currently working on **SAAS projects for hospitals and CMS for my clients.**
+- 🔭 I’m the **Co-Founder of IAMshield**
 
-- 🌱 I’m currently learning ** Nestjs, Remixjs**
+- 🌱 I’m currently learning **Ruby, Java**
 
-- 🤝 I’m willing to help with **Nextjs and Reactjs projects and also open sources projects**
+- 🤝 I’m willing to help with **Nextjs and Reactjs open sources projects**
 
-- 💬 Ask me about **react, nextjs, framer-motion, typescript , taiwlindcss and CSS.**
+- 💬 Ask me about **react, nextjs, framer-motion, GSAP, typescript , taiwlindcss and CSS.**
 
 - 📫 How to reach me **timothygbd@gmail.com**
 
-- ⚡ My tech Stack **Nextjs , Typescript , Framer-motion , Tailwindcss , Prisma (or) Drizzle and databases(according to clients requirements)**
+- ⚡ My tech Stack **Nextjs, Nestjs , Typescript , Framer-motion (or) GSAP , Tailwindcss , Prisma (or) Drizzle and databases(according to clients requirements)**
 
 <h3 align="left">Connect with me:</h3>
 <br clear="both">
@@ -36,16 +36,6 @@
 ###
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timothytim812&show_icons=true&locale=en&layout=compact" alt="timothytim812" /></p>
-</div>
-
-<br clear="both">
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=timothytim812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
