@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Timothy Benjamin</h1>
-<h3 align="center">Co-Founder of IAMshield</h3>
+<h3 align="center">Co-Founder of Ntanglenet</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m the **Co-Founder of IAMshield**
+- 🔭 I’m the **Co-Founder of Ntanglenet**
 
 - 🌱 I’m currently learning **Ruby, Java**
 
